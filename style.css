@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 75px;
+    text-align: right;
+}
+
+.top-right-paragraph {
+    position: absolute;
+    top: 0;
+    right: 4%;
+    width: 40%;
+}
+
+.lineOne {
+  width: 60%; 
+  margin: 0 auto; 
+  position: relative;
+}
+
+.two {
+  position: absolute;
+  top: 145%;
+  font-size: 45px;
+  text-align: left;
+}
+
+.three {
+  position: absolute;
+  top: 20%;
+  font-size: 45px;
+  text-align: left;
+}
+
+
+.four{
+ align-items: center;
+  font-size: 45px;
+  text-align: center;
+  
+}
